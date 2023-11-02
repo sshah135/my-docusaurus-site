@@ -1,0 +1,23 @@
+{
+  "unversionedId": "my-new-document",
+  "id": "my-new-document",
+  "title": "My New Document",
+  "description": "This is the content of my new document.",
+  "source": "@site/docs/my-new-document.md",
+  "sourceDirName": ".",
+  "slug": "/my-new-document",
+  "permalink": "/docs/my-new-document",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/my-new-document.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "my-new-document",
+    "title": "My New Document"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}
